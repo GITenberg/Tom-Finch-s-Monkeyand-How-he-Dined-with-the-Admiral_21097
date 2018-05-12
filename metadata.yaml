@@ -1,0 +1,29 @@
+_repo: Tom-Finch-s-Monkeyand-How-he-Dined-with-the-Admiral_21097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2007-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: 'Tom Finch''s Monkey
+
+  and How he Dined with the Admiral'
+url: http://www.gutenberg.org/ebooks/21097
